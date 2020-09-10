@@ -45,7 +45,7 @@ Você também pode usar o <a href="https://create-react-app.dev/docs/getting-sta
 
 # Primeiro Passo
 
-É hora do show! Lembre-se, crie coponentes essenciais para cada parte reutilizável de seu aplicativo, como listas de nós e informações detalhadas.
+É hora do show! Lembre-se, crie componentes essenciais para cada parte reutilizável de seu aplicativo, como listas de nós e informações detalhadas.
 
 Vamos conectar todos eles e criar as páginas web:
 
@@ -54,6 +54,32 @@ Vamos conectar todos eles e criar as páginas web:
 - exibir todos os usuários e os seus cursos favoritados
 - clique em cada curso e abra os detalhes do usuário (todos atributos)
 - simule que um usuário favoritou o curso  clicando em :heart: e aparecendo uma mensagem do tipo "Você favoritou o curso... bla bla bla"
+
+# Segundo Passo
+
+- Não há thumbnail no banco de dados da API, portanto, gostaríamos de ver como você implementa uma estratégia de thumbnail fake
+
+
+# Terceiro Passo
+
+Seria ótimo ver essas bibliotecas sendo usadas em seu código, mas adoraríamos saber o que você pode sugerir para nós:
+
+- Uma página da web de login falsa usando uma estratégia de token JWT - http://jwt.io/ 
+- Uso de componentes estilizados - https://styled-components.com/
+- Padrões de código - https://eslint.org/ e https://prettier.io 
+- Conjunto de ícones vetoriais - https://fontawesome.com/ 
+- Material UI - https://material-ui.com/pt/
+
+# Quais são os principais aspectos que iremos avaliar no seu código:
+
+- Código limpo
+- Componentização
+- Responsividade
+- Quão longe você pode passar pelo desafio
+
+
+
+
 
 
 
