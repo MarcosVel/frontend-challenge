@@ -64,9 +64,7 @@ Vamos conectar todos eles e criar as páginas web:
 
 Seria ótimo ver essas bibliotecas sendo usadas em seu código, mas adoraríamos saber o que você pode sugerir para nós:
 
-- Uma página da web de login falsa usando uma estratégia de token JWT - http://jwt.io/ 
-- Uso de componentes estilizados - https://styled-components.com/
-- Padrões de código - https://eslint.org/ e https://prettier.io 
+- Uma página da web de login falsa usando uma estratégia de token JWT (não precisa de backend, somente salve a sessão com um token falso) - http://jwt.io/ 
 - Conjunto de ícones vetoriais - https://fontawesome.com/ 
 - Material UI - https://material-ui.com/pt/
 
@@ -76,6 +74,12 @@ Seria ótimo ver essas bibliotecas sendo usadas em seu código, mas adoraríamos
 - Componentização
 - Responsividade
 - Quão longe você pode passar pelo desafio
+
+## Estrutura
+
+Utilize <a href="https://www.npmjs.com/package/json-server" target="_blank">json-server</a> para simular o backend.
+
+
 
 
 
