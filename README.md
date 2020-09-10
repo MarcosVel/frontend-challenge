@@ -148,7 +148,9 @@ A estrutura do nosso banco:
 
 ```
 
+## Como nos enviar
 
+Crie um repositório privado no github e coloque os seguintes usuários como colaboradores: `Wil-g2` e `matheusflauzino`
 
 
 
