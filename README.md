@@ -77,7 +77,75 @@ Seria ótimo ver essas bibliotecas sendo usadas em seu código, mas adoraríamos
 
 ## Estrutura
 
-Utilize <a href="https://www.npmjs.com/package/json-server" target="_blank">json-server</a> para simular o backend.
+Utilize <a href='https://www.npmjs.com/package/json-server' target='_blank'>json-server</a> para simular o backend.
+
+A estrutura do nosso banco:
+
+```
+
+{
+  "courses" : [
+    {
+      "id": 1,
+      "tiutle": "Title Course 1",
+      "price" : 10.40,
+      "workland": 44,
+      "lesson": 10,
+      "author": "Name author 1",
+      "year": 2020
+    },
+    {
+      "id": 2,
+      "tiutle": "Title Course 2",
+      "price" : 1.50,
+      "workland": 44,
+      "lesson": 20,
+      "author": "Name author 2",
+      "year": 2020
+    },
+    {
+      "id": 3,
+      "tiutle": "Title Course 3",
+      "price" : 1.50,
+      "workland": 44,
+      "lesson": 20,
+      "author": "Name author 3",
+      "year": 2020
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Name User",
+      "email": "teste[a]teste.com.br",
+      "favorites" : [
+        {
+          "id": 1,
+          "tiutle": "Title Course 1",
+          "price" : 10.40,
+          "workland": 44,
+          "lesson": 10,
+          "author": "Name author 1",
+          "year": 2020
+        },
+        {
+          "id": 3,
+          "tiutle": "Title Course 3",
+          "price" : 1.50,
+          "workland": 44,
+          "lesson": 20,
+          "author": "Name author 3",
+          "year": 2020
+        }
+      ]
+    }
+  ]
+}
+
+
+
+```
 
 
 
