@@ -51,6 +51,7 @@ Vamos conectar todos eles e criar as páginas web:
 
 - exibir todas os cursos com suas devidas informações resumidas em uma lista, filtrando e pesquisando.
 - clique em cada curso e abra os detalhes do curso (todos atributos)
+- faça o CRUD para cadastro dos cursos seguindo a API do `json-server` 
 - exibir todos os usuários e os seus cursos favoritados
 - clique em cada curso e abra os detalhes do usuário (todos atributos)
 - simule que um usuário favoritou o curso  clicando em :heart: e aparecendo uma mensagem do tipo "Você favoritou o curso... bla bla bla"
