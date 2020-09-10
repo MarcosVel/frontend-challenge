@@ -30,3 +30,28 @@ Depois que você terminar, revisaremos seu código, forneceremos feedback e segu
 
 Vamos fingir que lançamos uma plataforma de avaliação de cursos online e gostariamos que os usuários favoritem :heart: os nossos cursos.
 
+Seu primeiro objetivo como desenvolvedor front-end é nos ajudar a expandir nossa plataforma, construindo os primeiros componentes visuais e página web.
+
+# Requisitos de Desenvolvimento
+
+## Quais tecnologias posso usar?
+
+- Node
+- React
+- ES6+
+- React Hooks
+
+Você também pode usar o <a href="https://create-react-app.dev/docs/getting-started/" target='_blank'>create-react-app</a> se quiser.
+
+# Primeiro Passo
+
+É hora do show! Lembre-se, crie coponentes essenciais para cada parte reutilizável de seu aplicativo, como listas de nós e informações detalhadas.
+
+Vamos conectar todos eles e criar as páginas web:
+
+- exibir todas os cursos com suas devidas informações resumidas em uma lista, filtrando e pesquisando.
+- clique em cada curso e abra os detalhes do curso (todos atributos)
+- simule que um usuário favoritou o curso
+
+
+
